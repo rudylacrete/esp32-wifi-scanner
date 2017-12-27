@@ -1,7 +1,6 @@
 /*
- * Blink
- * Turns on an LED on for one second,
- * then off for one second, repeatedly.
+ * Simple wifi scanner which list available Wifi networks
+ * on a OLED screen driven by a SSD1306 controller
  */
 
 #include <Arduino.h>
